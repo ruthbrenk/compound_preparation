@@ -1,0 +1,1 @@
+select id, unique_smiles from unique_compounds where mw is null

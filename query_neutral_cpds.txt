@@ -1,0 +1,1 @@
+select id, unique_smiles from unique_compounds where partial_charged = 'n' and clogp is null and mw is not null
